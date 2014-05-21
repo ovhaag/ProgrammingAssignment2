@@ -1,3 +1,10 @@
+## Contents
+
+My solution for a programming assignment in the coursera course on R programming.
+Set of R functions to cache potentially time-consuming matrix inversion. 
+
+The following text describes the assignment.
+
 ### Introduction
 
 This second programming assignment will require you to write an R
